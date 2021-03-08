@@ -10,6 +10,8 @@ The tarballs for `CImGui_jll.jl` have been built from these sources:
 
 * git repository: https://github.com/ocornut/imgui.git (revision: `7180e9ac661ea1c7b9dca6c89319049bb651c404`)
 * git repository: https://github.com/cimgui/cimgui.git (revision: `41b397020ac8dbc36ee9a95adb47769d4c8cc1dd`)
+* git repository: https://github.com/epezent/implot.git (revision: `a9d334791563cdaf9bd0bf7f9899a67bcd03179b`)
+* git repository: https://github.com/cimgui/cimplot.git (revision: `374317a84121a01868aa5274dbcf1c5a5df96e8c`)
 * files in directory, relative to originating `build_tarballs.jl`: `./bundled`
 
 ## Platforms
