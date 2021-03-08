@@ -1,6 +1,6 @@
 name = "CImGui_jll"
 uuid = "7dd61d3b-0da5-5c94-bbf9-a0296c6e3925"
-version = "1.81.0+0"
+version = "1.81.1+0"
 
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
