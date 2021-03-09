@@ -1,8 +1,8 @@
 [[CImGui]]
 arch = "x86_64"
-git-tree-sha1 = "fee7d7d9f550c563977d5d04185f32d6b39b4d38"
+git-tree-sha1 = "43e7dadb5c2418f288746d281e32ce0a14bb7e10"
 os = "windows"
 
     [[CImGui.download]]
-    sha256 = "b9cfcbb7fc3f63de6459d30f181b0640dc215c0a8b06538248abf145ea1e3bd8"
-    url = "https://github.com/yamen/CImGui_jll.jl/releases/download/CImGui-v1.81.3+0/CImGui.v1.81.3.x86_64-w64-mingw32.tar.gz"
+    sha256 = "5eb756f280ae49fc2922515e03f8987f9b77147c483dbf6d7b25cb57e76bb5d7"
+    url = "https://github.com/yamen/CImGui_jll.jl/releases/download/CImGui-v1.81.4+0/CImGui.v1.81.4.x86_64-w64-mingw32.tar.gz"
